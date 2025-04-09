@@ -1,0 +1,4 @@
+train: C:/Users/EB/Desktop/buster/datasets/images/train
+val: C:/Users/EB/Desktop/buster/datasets/images/val
+nc: 1
+names: ["screen"]
