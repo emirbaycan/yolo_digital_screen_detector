@@ -2,8 +2,7 @@ import os
 import cv2
 import av
 import time
-from ultralytics import YOLO
-import matplotlib.pyplot as plt
+from ultralytics import YOLO 
 
 # RTSP Stream URL
 username = "admin"

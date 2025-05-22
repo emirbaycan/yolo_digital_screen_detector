@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>annotations</folder>
+	<filename>1738090379.png</filename>
+	<path>./screen_dataset/images\1738090379.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>336</ymin>
+			<xmax>584</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>

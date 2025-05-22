@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>annotations</folder>
+	<filename>1738019595.png</filename>
+	<path>C:\Users\EB\Desktop\buster\screen_dataset\images\1738019595.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1454</xmin>
+			<ymin>552</ymin>
+			<xmax>1611</xmax>
+			<ymax>709</ymax>
+		</bndbox>
+	</object>
+</annotation>
